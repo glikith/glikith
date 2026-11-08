@@ -24,11 +24,20 @@ location    hyderabad, india
 ### `~ $ stats`
 
 ```text
-repositories   20
+repositories   21
 stars          0
 followers      2
-contributions  120 (last 12 months)
+contributions  120+ (last 12 months)
 ```
+
+
+### `~ $ activity forecast`
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=glikith&theme=zen" alt="glikith contribution activity" />
+</p>
+
+
 
 ### `~ $ contact`
 
